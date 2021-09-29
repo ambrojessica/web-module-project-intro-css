@@ -75,7 +75,6 @@ legend {
   padding: 0;
   margin: 0;
   max-width: 100%;
-  border: 1px solid grey;
 }
 
 /* Beginning of CSS */
@@ -209,6 +208,8 @@ footer {
   background-color: #f9e7dc;
 }
 
-.pink {
-  background-position: fill;
+footer img {
+  width: 100%;
+  height: 400px;
+  object-fit: fill;
 }
